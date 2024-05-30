@@ -41,8 +41,8 @@ def fanc2():
 
 print("~"*50)
 
-print("\t[1] --- сканировать отделный порт")
-print("\t[2] --- сканировать список")
+print("\t[1] --- scan specific port")
+print("\t[2] --- scan list of ports")
 
 print("~"*50, "\n")
 text_a = input("[scan]--> ")
