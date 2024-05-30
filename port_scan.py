@@ -52,4 +52,4 @@ if text_a == "1":
 elif text_a == "2":
     fanc2()
 else:
-    print(colored("Параметр введен не правильно!", 'red'))
+    print(colored("Invalid", 'red'))
